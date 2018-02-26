@@ -1,1 +1,1 @@
-"# You found a star!" 
+# You found a star! 
